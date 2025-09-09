@@ -219,20 +219,6 @@ One of my goals was to keep this project **fully within the AWS Free Tier**. Her
 
 ---
 
-## 🙋‍♂️ About Me
-
-**Deepbendu Debnath**  
-AWS Certified Solutions Architect – Associate | Cloud Security Explorer | Full Stack Developer | C++ Problem Solver  
-Made with ❤️ in India 🇮🇳
-
-I’m a hands-on builder passionate about cloud security, automation, and meaningful tech. This project reflects my journey into **DevSecOps using AWS-native services** — combining **real-time monitoring**, **event-driven automation**, and **security-first thinking**.
-
-🛡️ I also hold the **[AWS Certified Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/40d503c796ac43eb9f5d3912b5adad30)** credential, which deepened my understanding of building secure, scalable, and cost-optimized cloud solutions.
-
-> I didn’t just build this project — I built real-world cloud confidence.
-
----
-
 ## 📬 Let’s Connect
 
 I’m open to:
@@ -240,9 +226,6 @@ I’m open to:
 - 🚀 Entry-level full-time roles
 - 🛠️ Internships, collaborative builds, or open-source work  
 - 🤝 Cloud security conversations, mentorship, or guidance
-
-> 📧 debnathdeepbendu@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/deepbendu-debnath) &nbsp;&nbsp;|&nbsp;&nbsp; 📁 [GitHub](https://github.com/Deepbendu) &nbsp;&nbsp;|&nbsp;&nbsp; 🧩 [LeetCode](https://leetcode.com/deepbendu)
 
 ---
 
