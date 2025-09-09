@@ -227,10 +227,3 @@ I’m open to:
 - 🛠️ Internships, collaborative builds, or open-source work  
 - 🤝 Cloud security conversations, mentorship, or guidance
 
----
-
-## 📜 AWS Certification Verification
-
-You can verify my AWS Certified Solutions Architect – Associate credential here:  
-🔗 [Verify my AWS Certification](https://cp.certmetrics.com/amazon/en/public/verify/credential/40d503c796ac43eb9f5d3912b5adad30) &nbsp;&nbsp;|&nbsp;&nbsp;
-🔗 [Verify my Credly Badge](https://www.credly.com/badges/e8e56a26-b626-4c1c-b628-a09a277be295/public_url)
